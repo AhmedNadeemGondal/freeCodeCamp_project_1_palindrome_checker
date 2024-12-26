@@ -69,6 +69,11 @@ input {
 #check-btn:hover {
   background-color: #21a1f1;
 }
+#result {
+  color: #282c34;
+  font-size: 1rem;
+  margin: 0.625rem 0rem;
+}
 
 .info-card {
   background-color: #f1f1f1;
