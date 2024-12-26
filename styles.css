@@ -1,0 +1,80 @@
+body {
+  background-color: #282c34;
+  color: #ffffff;
+  font-family: "Lato", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  background-color: #3b3b4f;
+  border-radius: 1rem;
+  padding: 2.5rem;
+  width: 90%;
+  max-width: 31.25rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+h3 {
+  font-size: 2rem;
+  margin-bottom: 1.25rem;
+}
+
+h1 {
+  font-size: 1.2rem;
+  margin-bottom: 1.25rem;
+}
+
+.input-card {
+  width: 100%;
+  background-color: #f1f1f1;
+  border-radius: 0.75rem;
+  margin-bottom: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.625rem;
+}
+
+label {
+  color: #282c34;
+  font-size: 1rem;
+  margin-top: 0.625rem;
+}
+
+input {
+  width: 90%;
+  padding: 0.625rem;
+  border-radius: 0.5rem;
+  border: 1px solid #282c34;
+  font-size: 1rem;
+}
+
+#check-btn {
+  background-color: #61dafb;
+  color: #ffffff;
+  padding: 0.625rem 1.25rem;
+  border-radius: 0.5rem;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#check-btn:hover {
+  background-color: #21a1f1;
+}
+
+.info-card {
+  background-color: #f1f1f1;
+  color: #282c34;
+  border-radius: 0.75rem;
+  padding: 1.25rem;
+  font-size: 1rem;
+  line-height: 1.5;
+}
