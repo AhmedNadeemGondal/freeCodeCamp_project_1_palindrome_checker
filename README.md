@@ -1,21 +1,20 @@
-# [Lifestyle Website Portfolio](https://ahmednadeemgondal.github.io/lifestyle-website-portfolio/)
+# [Palindrome Checker](https://ahmednadeemgondal.github.io/freeCodeCamp_project_1_palindrome_checker/)
 
-A dynamic and engaging portfolio website featuring smooth scroll-based animations, interactive elements, and a fully responsive design.
+A simple JavaScript-based palindrome checker that validates if a string reads the same forward and backward.
 
 ## Live Demo
-Check out the live website: [Lifestyle Website Portfolio](https://ahmednadeemgondal.github.io/lifestyle-website-portfolio/)
+Check out the live website: [Palindrome Checker](https://ahmednadeemgondal.github.io/freeCodeCamp_project_1_palindrome_checker/)
 
 ## Features
-- Smooth scrolling animations
-- Interactive UI elements
-- Fully responsive design
+- Validates palindrome by comparing characters
+- User-friendly interface with real-time result display
+- Alerts for empty input
 
 ## Built With
-- **HTML, CSS, JavaScript**: Core technologies for web development.
-- **ScrollMagic**: Scroll-triggered animations.
-- **GSAP**: High-performance animations.
+- **HTML, CSS, JavaScript**: Core web technologies.
+- **Regular Expressions**: For cleaning input text.
 
 ## Installation
 Clone the repository:
    ```bash
-   git clone https://github.com/AhmedNadeemGondal/lifestyle-website-portfolio.git
+   git clone https://github.com/AhmedNadeemGondal/freeCodeCamp_project_1_palindrome_checker.git
