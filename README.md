@@ -1,4 +1,4 @@
-# [Palindrome Checker](https://ahmednadeemgondal.github.io/freeCodeCamp_project_1_palindrome_checker/)
+# Palindrome Checker
 
 A simple JavaScript-based palindrome checker that validates if a string reads the same forward and backward.
 
